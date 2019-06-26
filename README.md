@@ -1,7 +1,7 @@
 # helpful-links
 
-###JavaScript
+### JavaScript
 - https://www.tutorialsteacher.com/javascript/javascript-tutorials
 
-###Node.js
+### Node.js
 - https://nodejs.org/dist/latest-v10.x/docs/api/
