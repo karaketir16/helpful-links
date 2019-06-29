@@ -4,6 +4,8 @@
 - https://www.tutorialsteacher.com/javascript/javascript-tutorials
 - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- https://javascript.info/
+
 
 ### Node.js
 - https://nodejs.org/dist/latest-v10.x/docs/api/
