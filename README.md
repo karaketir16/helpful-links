@@ -7,6 +7,7 @@
 - https://javascript.info/
 - [What the heck is the event loop anyway?](https://youtu.be/8aGhZQkoFbQ)
 - [Further Adventures of the Event Loop](https://www.youtube.com/watch?v=u1kqx6AenYw)
+- https://v8.dev/blog/fast-async
 ### Node.js
 - https://nodejs.org/dist/latest-v10.x/docs/api/
 - https://nodejs.org/en/docs/guides/
