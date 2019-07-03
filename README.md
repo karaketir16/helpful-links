@@ -5,7 +5,7 @@
 - https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - https://javascript.info/
-
+- https://youtu.be/8aGhZQkoFbQ
 
 ### Node.js
 - https://nodejs.org/dist/latest-v10.x/docs/api/
